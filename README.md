@@ -11,6 +11,13 @@ SiFiTe is a powerful automation tool designed for penetration testers and securi
 
 Unlike standard scripts, SiFiTe provides a **menu-driven interface** (TUI) to control powerful tools like **Aircrack-ng**, **MDK4**, and **Airgeddon** without needing to memorize complex flags.
 
+## Installation
+```bash
+git clone https://github.com/ogsiddhesh/Sifite.git
+cd Sifite
+sudo python3 sifite.py
+```
+
 ## 🚀 Key Features
 * **Automated Workflow:** Streamlines the process of enabling Monitor Mode, Scanning, and Deauthentication.
 * **Visual Dashboard:** Clean, color-coded terminal interface with live status updates.
