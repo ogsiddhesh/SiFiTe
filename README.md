@@ -29,3 +29,4 @@ Run this command to ensure you have all the necessary tools:
 ```bash
 sudo apt update
 sudo apt install aircrack-ng macchanger python3 git xterm graphviz besside-ng -y
+sudo apt update && sudo apt install aircrack-ng macchanger xterm graphviz bettercap hostapd-mana hostapd-wpe hcxtools isc-dhcp-server asleap hostapd mdk4 hcxdumptool beef-xss lighttpd -y
